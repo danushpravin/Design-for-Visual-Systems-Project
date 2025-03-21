@@ -96,6 +96,9 @@ The application is divided into two major stages for better accuracy and modular
 - Visualize each step of processing.
 - Save results to CSV automatically.
 
+![image](https://github.com/user-attachments/assets/9fd1de5a-37b1-41d3-8984-960f13fca783)
+
+
 ### What it Cannot Do (Yet):
 - Handle low-res, distorted, or angled plates.
 - Handle different plate colors (e.g., yellow/red plates may fail).
