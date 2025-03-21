@@ -1,14 +1,14 @@
 # Design For Visual Systems Project: License Plate Detection and OCR Application
 
-## 🚗 Project Overview
+## Project Overview
 
 This MATLAB-based application performs **license plate detection** and **optical character recognition (OCR)** from images. It processes input images, detects the license plate region accurately, extracts it, and recognizes the text using OCR techniques.
 
-> **Note**: Although this started as a group project, I, **[Your Full Name]**, have completed this project **individually**.
+> **Note**: Although this started as a group project, I, **Danush**, have completed this project **individually**.
 
 ---
 
-## 🧩 Workflow Overview
+##  Workflow Overview
 
 The application is divided into two major stages for better accuracy and modularity:
 
@@ -24,7 +24,7 @@ The application is divided into two major stages for better accuracy and modular
 
 ---
 
-## ✅ Achievements
+##  Achievements
 
 - Developed a robust pipeline for license plate detection and text extraction.
 - Applied preprocessing techniques like **CLAHE** for contrast enhancement, **Canny edge detection**, and **morphological operations** for noise reduction.
@@ -56,7 +56,7 @@ The application is divided into two major stages for better accuracy and modular
 
 ---
 
-## 🔍 Preprocessing Steps
+##  Preprocessing Steps
 
 ### Before Plate Detection (Full Image):
 - **CLAHE**: Enhance contrast.
@@ -72,7 +72,7 @@ The application is divided into two major stages for better accuracy and modular
 
 ---
 
-## 🖥️ How to Run
+##  How to Run
 
 ### Requirements
 - MATLAB R2021a or newer
@@ -88,7 +88,7 @@ The application is divided into two major stages for better accuracy and modular
 
 ---
 
-## 📊 Evaluation
+##  Evaluation
 
 ### What the Application Can Do:
 - Detect plates from clear, front-facing images.
@@ -104,7 +104,7 @@ The application is divided into two major stages for better accuracy and modular
 
 ---
 
-## 🙋‍♂️ Personal Contribution
+##  Personal Contribution
 
 - I developed **all code and design** independently.
 - Researched and applied image processing and OCR techniques.
@@ -120,7 +120,7 @@ Initially, I attempted **plate detection and OCR simultaneously** within the sam
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 To overcome current limitations, I plan to integrate **machine learning**:
 
@@ -135,7 +135,7 @@ Other planned improvements:
 
 ---
 
-## 🧠 Reflection
+##  Reflection
 
 This project deepened my understanding of:
 - Image processing techniques (CLAHE, edge detection, morphological ops).
